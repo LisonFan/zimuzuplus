@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name			字幕组字幕下载页面扩展脚本
-// @namespace		https://lisonfan.com/
+// @namespace			https://lisonfan.com/
 // @icon			https://lisonfan.com/favicon.ico
 // @author			LisonFan
-// @version			0.7
-// @description		给字幕组的字幕下载页面增加一个字幕版本对应的视频文件下载链接
+// @version			0.8
+// @description			给字幕组的字幕下载页面增加一个字幕版本对应的视频文件下载链接
 // @match			http*://www.zmz2017.com/subtitle/*
 // @match			http*://www.zimuzu.tv/subtitle/*
 // @match			http*://www.zimuzu.io/subtitle/*
