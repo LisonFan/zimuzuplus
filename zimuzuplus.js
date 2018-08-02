@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name			字幕组字幕下载页面扩展脚本
-// @namespace			https://lisonfan.com/
-// @icon			https://lisonfan.com/favicon.ico
+// @namespace			https://github.com/LisonFan/
+// @icon			http://files.zmzjstu.com/images/dibulogo.png
 // @author			LisonFan
 // @version			0.8
 // @description			给字幕组的字幕下载页面增加一个字幕版本对应的视频文件下载链接
