@@ -21,7 +21,7 @@
             title = title.replace(/(\.zip|\.rar)$/, "")
             let url = "https://rarbg.to/torrents.php?search=" + title
             let a = "<a href='" + url + "' target='_blank' style='color: red;'>" + title + "</a>"
-            $(this).html($(this).html().replace(title, a))
+            $(this).html($(this).text().replace(title, a + " <- 点击跳转"))
         }
     })
 })(jQuery);
