@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            字幕组字幕下载页面扩展脚本
-// @icon            http://www.zmz2019.com/favicon.ico
+// @icon            http://www.rrys2019.com/favicon.ico
 // @author          LisonFan
 // @version         1.0.1
 // @description     给字幕组的字幕下载页面增加一个字幕版本对应的视频文件下载链接
